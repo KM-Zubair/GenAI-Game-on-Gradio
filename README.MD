@@ -9,7 +9,7 @@ This project is a game application that uses Gradio to combine text-to-image and
 
 ## Requirements
 Install the required libraries with:
-```bash
+
 pip install -r requirements.txt
 Setup
 Clone the Repository:
@@ -32,7 +32,7 @@ Copy code
 python app.py
 Access the Game: Open the link provided by Gradio to interact with the game in your browser.
 
-File Structure
+## File Structure
 helpers.py: Contains helper functions for API calls and image processing.
 game_functions.py: Defines the core functions for image captioning and generation.
 app.py: Builds the Gradio interface for the Describe-and-Generate Game.
